@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x409B28f416C185A96697b225463865b9508C58b9",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x409b28f416c185a96697b225463865b9508c58b9",
+  "NETWORK": {
+    "NAME": "Ethereum ",
+    "SYMBOL": "Ethereum",
+    "ID": 137
+  },
+  "NFT_NAME": "Lakehouse | Make a wish",
+
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "SYMBOL": "NFT",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/newlakehousetest",
+  "SHOW_BACKGROUND": true
+}
