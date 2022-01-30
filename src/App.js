@@ -298,7 +298,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  Excluding gas fees.
+                  Not including gas fees
                 </s.TextDescription>
                 <s.SpacerSmall />
                 {blockchain.account === "" ||
@@ -433,7 +433,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            Just wanted to say thank you for the people who has walked with me during this journey. This is for you.
+            Just wanted to say thank you for the people who walked with me during this journey. This is for you.
           </s.TextDescription>
         </s.Container>
       </s.Container>
